@@ -1,7 +1,7 @@
 <?xml version = "1.0" encoding = "utf-8"?>
-<!-- sample.xml - A sample xml document that lists ads for -->
+<!-- sample.xml - A sample xml document -->
 <document>
- <name>An xml exmaple</name>
+ <name>Very xml, much data presentation</name>
  <author>someone</author>
  <language>English</language>
  <genre>XML ficiton</genre>
